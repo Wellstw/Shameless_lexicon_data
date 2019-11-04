@@ -1,3 +1,3 @@
-Not For Commercial
+Not For Commercial  
 我很無耻我用了無恥中文發音庫提升了....  
 I am very shameless. I used this Chinese lexicon to enhance Chinese speech recognition rate!!  
