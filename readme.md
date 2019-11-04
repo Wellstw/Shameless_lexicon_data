@@ -3,5 +3,7 @@
 教授不知道 以為 程式變好了  
 其是我是偷用了"無耻中文語音發音庫"  
 
+for your kaldi or any chinese lexicon 
+
 shameless chinese lexicon  
 the best of thw world chinese lexicon file , may be  
