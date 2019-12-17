@@ -20,3 +20,5 @@ https://github.com/Wellstw/Shameless_lexicon_data/blob/master/lexicon.txt
 lexicon－20191205.txt  
 2019/12/06  
 lexicon-20191206.txt  
+2019/12/17  
+lexicon-20191217.txt  
